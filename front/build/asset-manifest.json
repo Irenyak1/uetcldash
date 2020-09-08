@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c23cff3.chunk.css",
+    "main.js": "/static/js/main.cc679546.chunk.js",
+    "main.js.map": "/static/js/main.cc679546.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e4d6195.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e4d6195.js.map",
+    "static/css/2.2992cd47.chunk.css": "/static/css/2.2992cd47.chunk.css",
+    "static/js/2.7e3a86f1.chunk.js": "/static/js/2.7e3a86f1.chunk.js",
+    "static/js/2.7e3a86f1.chunk.js.map": "/static/js/2.7e3a86f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5ab78be7d7b98ae5d78991982a276916.js": "/precache-manifest.5ab78be7d7b98ae5d78991982a276916.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2992cd47.chunk.css.map": "/static/css/2.2992cd47.chunk.css.map",
+    "static/css/main.8c23cff3.chunk.css.map": "/static/css/main.8c23cff3.chunk.css.map",
+    "static/js/2.7e3a86f1.chunk.js.LICENSE.txt": "/static/js/2.7e3a86f1.chunk.js.LICENSE.txt",
+    "static/media/styles.module.css": "/static/media/headBack2.3c9509a8.JPG",
+    "static/media/style.css": "/static/media/lines19.9d9ed907.jpg",
+    "static/media/uetcllogo2.jpg": "/static/media/uetcllogo2.60da0b45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4d6195.js",
+    "static/css/2.2992cd47.chunk.css",
+    "static/js/2.7e3a86f1.chunk.js",
+    "static/css/main.8c23cff3.chunk.css",
+    "static/js/main.cc679546.chunk.js"
+  ]
+}
