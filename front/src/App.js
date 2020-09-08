@@ -1,5 +1,4 @@
 import React, { Component, Fragment } from "react";
-// import axios from "axios";
 import NewProject from "./components/NewProject";
 import EditProject from "./components/EditProject";
 import DisplayData from "./components/DisplayData";
@@ -8,12 +7,10 @@ import styles from "./components/styles.module.css";
 import "bootstrap/dist/css/bootstrap.css";
 import {
   BrowserRouter as Router,
-  // HashRouter as Router,
   Switch,
   Route,
   Redirect
 } from "react-router-dom";
-// import ReactDOM from "react-dom";
 import { Provider as AlertProvider } from "react-alert";
 import AlertTemplate from "react-alert-template-basic";
 import Register from "./components/accounts/Register";
