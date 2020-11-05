@@ -49,6 +49,7 @@ export const login = (username, password) => dispatch => {
     })
     .catch(err => {
       dispatch(returnErrors(err.response.data, err.response.status));
+      dispatch(createMessage({ loginfail: "Incorrect credentials supplied" }));
       dispatch({
         type: LOGIN_FAIL
       });

@@ -28,6 +28,7 @@ class Alerts extends Component {
       if (message.deleteProject) alert.success(message.deleteProject);
       if (message.addProject) alert.success(message.addProject);
       if (message.login) alert.success(message.login);
+      if (message.loginfail) alert.error(message.loginfail);
       if (message.register) alert.success(message.register);
       if (message.logout) alert.success(message.logout);
       if (message.passwordNotMatch) alert.error(message.passwordNotMatch);
